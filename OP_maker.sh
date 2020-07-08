@@ -17,7 +17,7 @@ echo -e "$red
 ░ ░ ░ ▒  ░░        ░  ░░ ░   ░     ░░   ░    ░   
     ░ ░            ░  ░  ░   ░  ░   ░        ░  ░"$rset
 
-echo "  $red THANKU FOR BEING MY 900 SUBS FAMILY MEMBERS"$rset
+echo -e "  $red THANKU FOR BEING MY 900 SUBS FAMILY MEMBERS"$rset
 echo ""
 sleep 3.0
 rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
@@ -46,4 +46,4 @@ echo ""
 clear
 cd $HOME/WE_ARE_OP
 clear
-php Thanku.php
+php Thanku.php | lolcat
