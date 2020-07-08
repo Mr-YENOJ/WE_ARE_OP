@@ -17,7 +17,9 @@ echo -e "$red
 ░ ░ ░ ▒  ░░        ░  ░░ ░   ░     ░░   ░    ░   
     ░ ░            ░  ░  ░   ░  ░   ░        ░  ░"$rset
 
+echo "  $red THANKU FOR BEING MY 900 SUBS FAMILY MEMBERS"$rset
 echo ""
+sleep 3.0
 rm -rf /data/data/com.termux/files/usr/etc/bash.bashrc
 cp -r .gift .giftt $HOME
 echo ""
@@ -38,3 +40,10 @@ echo ""
 cd $HOME
 cd WE_ARE_OP
 cp -r .run.sh $HOME
+clear
+sleep 2.0
+echo ""
+clear
+cd $HOME/WE_ARE_OP
+clear
+php Thanku.php
